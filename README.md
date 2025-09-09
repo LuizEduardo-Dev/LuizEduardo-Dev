@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Estudante de TI atualmente no segundo semestre estudando sobre POO e banco de dados.<br>
+Desenvolvedor Full Stack com foco em front-end, trabalho com stacks: Angular, Spring Boot, Next.js e Typescript<br>
 
 
 ## 🌐 Sociais:
