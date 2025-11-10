@@ -1,8 +1,7 @@
-# 💫 Sobre mim:
-Desenvolvedor Full Stack com foco em front-end, trabalho com stacks: Angular, Spring Boot, Next.js e Typescript<br>
+# 💫 About me:
+Full Stack Developer with focus on front-end, work with the following stacks: Next.js, Angular, Spring Boot, Java and TypeScript<br>
 
-
-## 🌐 Sociais:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/luiz-eduardo-6554992b9) 
 
 # 💻 Tech Stack:
